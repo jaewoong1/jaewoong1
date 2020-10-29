@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+A MS student at [INHA](https://www.inha.ac.kr/sites/kr/index.do), Republic of Korea, 🇰🇷
+
+
 <!--
 **jaewoong1/jaewoong1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
