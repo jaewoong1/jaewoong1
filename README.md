@@ -3,7 +3,7 @@
 A MS student at [INHA](https://www.inha.ac.kr/sites/kr/index.do), Republic of Korea, 🇰🇷
 
 - 🔭 I’m currently working on [CVIP](http://cvip.inha.ac.kr/) Laboratory.
-- 🌱 I’m currently learning __Deep learning__ and __Image Translation__ 
+- 🌱 I’m currently learning __Deep learning__ and __Image to Image (I2I) Translation__ 
 
 <!--
 **jaewoong1/jaewoong1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
