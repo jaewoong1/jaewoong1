@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-A MS student at [INHA](https://www.inha.ac.kr/sites/kr/index.do), Republic of Korea, 🇰🇷
+A MS degree at [INHA](https://www.inha.ac.kr/sites/kr/index.do), Republic of Korea, 🇰🇷
 
-- 🔭 I’m currently working on [CVIP](http://cvip.inha.ac.kr/) Laboratory.
+- 🔭 I’m currently working on NHN cloud, Advanced AI research team.
 - 🌱 I’m currently learning __Deep learning__ and __Image to Image (I2I) Translation__ 
 
 <!--
