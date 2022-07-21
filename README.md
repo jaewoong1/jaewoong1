@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Current : NHN cloud AI researcher
+
 A MS degree at [INHA](https://www.inha.ac.kr/sites/kr/index.do), Republic of Korea, 🇰🇷
 
 - 🔭 I’m currently working on NHN cloud, Advanced AI research team.
