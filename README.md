@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Current : NHN cloud AI researcher
+Current : LG CNS - Multimodal AI team 
 
 A MS degree at [INHA](https://www.inha.ac.kr/sites/kr/index.do), Republic of Korea, 🇰🇷
 
